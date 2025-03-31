@@ -1,1 +1,1 @@
-# Neuronal-dynamics-cyclic-hopfield-network
+# Cyclic hopfield network
